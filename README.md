@@ -43,8 +43,8 @@ This theme is built to be used with the **Windhawk** application and the **Windo
 ## 🔗 Related Projects
 
 Complete the look across your entire OS! Check out my other Frosty Glass styling repositories:
-* [❄️ Frosty Glass Taskbar Styler](https://github.com/guidolamanna/win11-taskbar-styler-frostyglass-windhawk)
-* [❄️ Frosty Glass Start Menu Styler](https://github.com/guidolamanna/win11-startmenu-styler-frostyglass-windhawk)
+* [❄️ Frosty Glass Taskbar Styler](https://github.com/guidolamanna/win11-taskbar-styler-frostyglass-windhawk) to apply this exact same aesthetic to your Taskbar, Alt+Tab menu, volume sliders, and more!
+* [❄️ Frosty Glass Start Menu Styler](https://github.com/guidolamanna/win11-startmenu-styler-frostyglass-windhawk) to apply this exact same aesthetic to your Start Menu and Lock Screen!
 
 ---
 
