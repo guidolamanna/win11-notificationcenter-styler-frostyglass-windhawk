@@ -54,4 +54,4 @@ A huge thank you to [Ramen Software](https://ramensoftware.com/) for creating Wi
 
 ---
 
-*Created by [Guido Lamanna](https://github.com/guidolamanna)*![Uploading Screenshot 2026-04-30 142416.png…]()
+*Created by [Guido Lamanna](https://github.com/guidolamanna)*
