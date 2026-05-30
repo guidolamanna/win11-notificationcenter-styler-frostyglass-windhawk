@@ -28,15 +28,15 @@ This theme is built to be used with the **Windhawk** application and the **Windo
 
 ### 📅 Notifications & Calendar
 
-<img width="2879" height="1799" alt="Screenshot 2026-04-30 142416" src="https://github.com/user-attachments/assets/09350aca-45b2-4206-9cc5-06a2150d4920" />
+<img width="2879" height="1799" alt="Captura de pantalla 2026-05-30 144341" src="https://github.com/user-attachments/assets/30a5df52-de89-47f4-ae61-d63d9d690e78" />
 
 ### 🎛️ Control Center (Compact / No Media Player)
 
-<img width="2878" height="1796" alt="Screenshot 2026-04-30 142624" src="https://github.com/user-attachments/assets/89f09494-7a45-446b-a928-77a885059449" />
+<img width="2879" height="1799" alt="Captura de pantalla 2026-05-30 144351" src="https://github.com/user-attachments/assets/eb943bb1-d818-465d-ad51-3651d55358e3" />
 
 ### 🎛️ Control Center (With Media Player)
 
-<img width="2879" height="1799" alt="Screenshot 2026-04-30 142426" src="https://github.com/user-attachments/assets/62b7562b-9031-41aa-963e-77f1b88d484d" />
+<img width="2878" height="1798" alt="Captura de pantalla 2026-05-30 144420" src="https://github.com/user-attachments/assets/eadc3367-6447-481e-8aea-fb9cf0ee6ebf" />
 
 ---
 
