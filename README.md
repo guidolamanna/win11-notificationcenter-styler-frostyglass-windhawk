@@ -15,7 +15,7 @@ This theme is built to be used with the **Windhawk** application and the **Windo
 
 1. **Mod Selection:** Open **Windows 11 Notification Center Styler** in Windhawk.
 2. **Download Config:** Copy the raw code from [`notification-center-config.json`](https://github.com/guidolamanna/win11-notificationcenter-styler-frostyglass-windhawk/blob/main/notification-center-config.json).
-3. **Textual Mode:** Click on the **Textual mode** button at the top of the settings and paste the code.
+3. **Advanced Tab:** Go to the Advanced tab of the mod settings, delete all text in the text box, and paste the copied code.
 4. **Save:** Click **Save** to apply the frosty effects instantly.
 
 *(Note: This configuration automatically sets the base theme to "TintedGlass" within the code).*
