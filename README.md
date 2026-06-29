@@ -1,4 +1,8 @@
 # ❄️ Frosty Glass Notification Center Theme for Windows 11
+> A refined, translucent aesthetic for the Windows 11 Notification Center, Calendar, and Control Center flyouts.
+
+[![Windhawk](https://img.shields.io/badge/Requires-Windhawk-blue?style=flat-square)](https://windhawk.net/)
+[![Style](https://img.shields.io/badge/Style-Frosty_Glass-lightgrey?style=flat-square)](#)
 
 A clean, minimalist, and highly customizable frosted glass/acrylic theme for the Windows 11 Notification Center. This theme unifies the UI with smooth translucent borders, rounded corners, and a frosty aesthetic, extending across the Calendar, Quick Settings (Control Center), and Media Transport Controls.
 
