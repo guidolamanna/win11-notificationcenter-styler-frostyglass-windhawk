@@ -36,7 +36,6 @@ styleConstants:
   - CornerRadius=12
   - ElementCornerRadius=8
   - thumbnailImageSize=300
-
 controlStyles:
   - target: Grid#NotificationCenterGrid
     styles:
